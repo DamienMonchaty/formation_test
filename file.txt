@@ -4,3 +4,5 @@ Je suis la troisieme phrase
 je suis la nouvelle phrase
 Je suis la cinquieme phrase
 Je suis la sixieme phrase
+Je suis la septieme phrase
+Je suis la huitieme phrase
